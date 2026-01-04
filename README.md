@@ -13,13 +13,12 @@ A modern, strictly client-side web application that allows users to generate fut
 -   **No Server Required**: Runs entirely in the browser.
 
 ## 🚀 Live Demo
-
-You can easily deploy this project to Netlify or any static hosting service.
+https://ksg-id-card.netlify.app/
 
 ## 🛠️ Technologies Used
 
 -   **HTML5 & CSS3** (Vanilla CSS with CSS Variables)
--   **React** (via CDN for lightweight usage without a build step)
+-   **CSS** (via CDN for lightweight usage without a build step)
 -   **Babel** (In-browser JSX transformation)
 -   **Lucide Icons** (Beautiful, consistent icons)
 -   **html-to-image** (For generating the downloadable image)
@@ -33,29 +32,13 @@ You can easily deploy this project to Netlify or any static hosting service.
 └── README.md           # Project documentation
 ```
 
-## 🔧 How to Run Locally
-
-1.  Clone or download this repository.
-2.  Make sure `index.html` and `default-profile.png` are in the same folder.
-3.  Open `index.html` in any modern web browser (Chrome, Edge, Firefox).
-4.  That's it!
-
-## 🌐 How to Deploy (Netlify)
-
-This project is static, making it incredibly easy to host for free.
-
-1.  Go to [Netlify Drop](https://app.netlify.com/drop).
-2.  Drag and drop the entire project folder into the upload area.
-3.  Your site will be live in seconds!
-
 ## 📊 Analytics
 
 The project includes a placeholder for **Google Analytics**.
 To enable tracking:
 1.  Open `index.html`.
-2.  Search for `G-TH315G9SWG`.
-3.  This ID is already set. If you successfully deployed, check your Google Analytics Realtime dashboard to see visitors.
 
 ## 📝 License
 
 Free to use for personal and commercial projects.
+
